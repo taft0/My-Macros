@@ -20,6 +20,7 @@ loop
 		Click, %Px%, %Py%
 	}
 }
+return
 
 k:: 
 ExitApp
